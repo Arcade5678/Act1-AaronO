@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HolaKotlinApp</string>
+    <string name="hola_kotlin">hola Kotlin</string>
+    <string name="hola">hola</string>
+    <string name="mon">mon!</string>
+    <string name="titol_tercera">Títol de la Tercera Activity</string>
+    <string name="boto_logcat">Boto Logcat</string>
+    <string name="boto_toast">Boto Toast</string>
+    <string name="missatge_logcat">boto apretat Logcat</string>
+    <string name="missatge_toast">Boto apretat Toast</string>
+    <string name="navegar_segona">Anar a Segona Activity</string>
+    <string name="navegar_tercera">Anar a Tercera Activity</string>
+</resources>
